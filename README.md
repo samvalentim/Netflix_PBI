@@ -1,6 +1,5 @@
 # Netflix_PBI
-Criação de Dash só para passar o tempo
-
+Criação de Dash só para passar o tempo e treinar um pouco o design. O foco do material NÃO é a linguagem nem análise de dados, apenas o layout mesmo. 
 ## Entendimento do Negócio
 A Netflix é uma plataforma global de streaming que oferece filmes, séries e documentários com conteúdo original. Fundada em 1997, começou como um serviço de aluguel de DVDs pelo correio e, em 2007, lançou seu serviço de streaming. A empresa continua a inovar no mercado de entretenimento, investindo em produções internacionais e tecnologias avançadas.
 
